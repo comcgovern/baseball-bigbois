@@ -1,7 +1,6 @@
-Markdown
-# MLB & MiLB Player Data Scraper
+# Baseball's Big Bois
 
-This R script pulls physical data (height and weight) for active baseball players across all levels of an MLB organization's system, from the major league club down to the Rookie/DSL levels. It queries the public (but undocumented) MLB Stats API and exports a clean, unified CSV dataset.
+This R script pulls physical data (height and weight) for active baseball players across all levels of an MLB organization's system, from the major league club down to the Rookie/DSL levels. It queries the public (but undocumented) MLB Stats API and exports a clean, unified CSV dataset. There isn't really a good existing way to pull this information systematically.
 
 ## Features
 * **Full Organizational Depth:** Pulls data for MLB, AAA, AA, High-A, Single-A, Rookie, and DSL/ACL affiliations.
